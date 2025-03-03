@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbd299c9d76bb6e46abf28e0f8f1d091
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 182924
+  packageName: Low Poly Farm Pack
+  packageVersion: 1.12
+  assetPath: Assets/LowPolyFarm/Materials/LowPolyFarm_BG.mat
+  uploadId: 582060

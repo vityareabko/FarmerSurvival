@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 594a443917dfd7a43a2557242cf712b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 182924
+  packageName: Low Poly Farm Pack
+  packageVersion: 1.12
+  assetPath: Assets/LowPolyFarm/Scenes/LowPolyFarm_DemoSettings.lighting
+  uploadId: 582060

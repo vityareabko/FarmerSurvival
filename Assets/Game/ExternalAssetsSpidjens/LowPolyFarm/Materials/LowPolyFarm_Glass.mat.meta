@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fa74368862b94f4c8d76f673d131085
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 182924
+  packageName: Low Poly Farm Pack
+  packageVersion: 1.12
+  assetPath: Assets/LowPolyFarm/Materials/LowPolyFarm_Glass.mat
+  uploadId: 582060
