@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcdc68adea6cba549a5580416ea507f6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/Visualisation/Detail/Detail_SurfaceCeiling.prefab
+  uploadId: 708357

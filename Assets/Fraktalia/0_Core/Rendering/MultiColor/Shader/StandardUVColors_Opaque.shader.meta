@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60e232a6770ac2d4796bfc986260e7a3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiColor/Shader/StandardUVColors_Opaque.shader
+  uploadId: 708357

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f0514c4d001437940a0eb1db1fa613f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/CoreScripts/SubSystems/ProceduralUVModifier/ProceduralUV_PerlinNoise.cs
+  uploadId: 708357

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db356c5f47e8560418df77ff52430d22
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Shader/MultiTexture.cginc
+  uploadId: 708357

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66dde007dcb1b3a418db4771ebb72f48
+timeCreated: 1467469800
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/BenchmarkAndTesting/FoliageTest.unity
+  uploadId: 708357

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 36dde6987b7c4174fa4dc54795d0c5f1
+timeCreated: 1447584294
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Internal/VoxelMath.cs
+  uploadId: 708357

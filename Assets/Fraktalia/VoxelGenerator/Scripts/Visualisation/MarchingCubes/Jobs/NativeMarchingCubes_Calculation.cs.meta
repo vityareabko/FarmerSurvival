@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20b468e720c9e4541b968436b92e5c74
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Visualisation/MarchingCubes/Jobs/NativeMarchingCubes_Calculation.cs
+  uploadId: 708357

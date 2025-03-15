@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11a1c1d34fbd9c04796d11c1e23251a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/WorldGenerator/WorldGenerator_Fractal.prefab
+  uploadId: 708357

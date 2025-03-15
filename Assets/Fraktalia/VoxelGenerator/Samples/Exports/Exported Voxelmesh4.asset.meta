@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1af443f14409bb3449f517e1e2e7dd9a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Exports/Exported Voxelmesh4.asset
+  uploadId: 708357

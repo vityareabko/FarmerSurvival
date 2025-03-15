@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdde1d40caf14e94c8da6d86b294f66f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Prefabs/Details/CopperOre.prefab
+  uploadId: 708357

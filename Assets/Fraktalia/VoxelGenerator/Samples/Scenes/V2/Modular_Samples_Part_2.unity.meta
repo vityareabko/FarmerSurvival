@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6767b468c5e74540b1373b4104e8a0b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/V2/Modular_Samples_Part_2.unity
+  uploadId: 708357

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2a95ebfeb7bb86d459a877f368025826
+timeCreated: 1504713905
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/CoreScripts/SubSystems/PipeExtruder/PipeExtruder_Native.cs
+  uploadId: 708357

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39d5c0cce493f17438496de5034146bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/Foliage/Tree/Models/VoxelTree.prefab
+  uploadId: 708357

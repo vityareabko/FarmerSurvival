@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 518a364a22b3c5b4bb561ea31f9cf0df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/Deprecated/UVWritingSettings.lighting
+  uploadId: 708357

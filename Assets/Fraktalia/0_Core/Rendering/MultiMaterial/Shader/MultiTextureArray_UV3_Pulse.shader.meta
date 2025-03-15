@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc31f4b90879fd34785ec89c4a587b08
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Shader/MultiTextureArray_UV3_Pulse.shader
+  uploadId: 708357

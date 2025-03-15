@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bd37fc60d7009546a9f8082caced191
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Prefabs/Details/Stalagmite.prefab
+  uploadId: 708357

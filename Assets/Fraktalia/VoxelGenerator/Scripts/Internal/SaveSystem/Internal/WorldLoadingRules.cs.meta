@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 976f3879a3b029a47a0c91a387ab375d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Internal/SaveSystem/Internal/WorldLoadingRules.cs
+  uploadId: 708357

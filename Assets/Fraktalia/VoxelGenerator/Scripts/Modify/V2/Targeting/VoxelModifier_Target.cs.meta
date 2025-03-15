@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ee596c8aa57d5c4c8ad72a62163d86b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Modify/V2/Targeting/VoxelModifier_Target.cs
+  uploadId: 708357

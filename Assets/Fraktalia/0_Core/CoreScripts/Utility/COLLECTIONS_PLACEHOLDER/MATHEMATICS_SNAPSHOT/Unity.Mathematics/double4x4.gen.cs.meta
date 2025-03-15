@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ae7c01e1a8ec8d47956c5232a631988
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/CoreScripts/Utility/COLLECTIONS_PLACEHOLDER/MATHEMATICS_SNAPSHOT/Unity.Mathematics/double4x4.gen.cs
+  uploadId: 708357

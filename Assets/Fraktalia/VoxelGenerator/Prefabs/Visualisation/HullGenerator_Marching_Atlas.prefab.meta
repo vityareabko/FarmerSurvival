@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6155e6b0265d17f4eb026e5f0a989f21
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/Visualisation/HullGenerator_Marching_Atlas.prefab
+  uploadId: 708357

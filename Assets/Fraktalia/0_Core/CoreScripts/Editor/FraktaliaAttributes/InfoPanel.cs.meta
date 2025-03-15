@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ab5b5481b9279e54c8934ff54264ba49
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/CoreScripts/Editor/FraktaliaAttributes/InfoPanel.cs
+  uploadId: 708357

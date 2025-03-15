@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9725db845a41fc94f84fd9f8121ee6e4
+timeCreated: 1486472109
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/SkyBox/Materials/Skybox/Skybox_Night_Nebula.mat
+  uploadId: 708357

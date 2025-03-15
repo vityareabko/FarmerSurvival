@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 136073d4f7838a145b7b720c6ed05212
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/VOXImportSample/teapot.vox
+  uploadId: 708357

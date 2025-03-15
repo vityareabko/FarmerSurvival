@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5dad371b2353f9a4a9a9b6a5d2f0f74e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Prefabs/ProceduralUVGenerator/UV3Generator_PerlinNoise.prefab
+  uploadId: 708357

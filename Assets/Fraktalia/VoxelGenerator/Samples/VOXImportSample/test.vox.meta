@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 86d3743d3fbac4a4ebeccb89af1f7d21
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: d1bf8f3b6f7d443469aaadd35a12d156, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/VOXImportSample/test.vox
+  uploadId: 708357

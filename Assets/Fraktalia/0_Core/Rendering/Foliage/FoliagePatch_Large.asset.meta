@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c7581421c82b5b40a69de2ec5dbf0f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/Foliage/FoliagePatch_Large.asset
+  uploadId: 708357

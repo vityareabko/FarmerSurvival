@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: abc0ae8b3c0845a43b6257960aefc6be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Internal/COLLECTION_PLACEHOLDER/PLACEHOLDER_BURST/BurstExecutionEnvironment.cs
+  uploadId: 708357

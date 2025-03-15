@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19ffb2192ff808047b4dccd404e453f0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/BenchmarkAndTesting/Benchmark_GPU.unity
+  uploadId: 708357

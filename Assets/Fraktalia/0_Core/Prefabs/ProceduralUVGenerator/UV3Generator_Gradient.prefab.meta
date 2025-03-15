@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36def45a21ae12f45baf4b92b3e88f59
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Prefabs/ProceduralUVGenerator/UV3Generator_Gradient.prefab
+  uploadId: 708357

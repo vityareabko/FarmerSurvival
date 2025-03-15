@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3245220e16016b4a8f0bde909a3018c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Prefabs/AvalancePrefab.prefab
+  uploadId: 708357

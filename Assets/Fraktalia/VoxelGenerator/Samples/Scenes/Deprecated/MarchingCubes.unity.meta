@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e449559aecbc3340831dac0ffed521e
+timeCreated: 1467469800
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/Deprecated/MarchingCubes.unity
+  uploadId: 708357

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de178c1dd4da1a042842f4ea5c69cc72
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/VoxelModifier_V2/VoxelModifier_V2_Indestructible.prefab
+  uploadId: 708357

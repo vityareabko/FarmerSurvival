@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d1ef1d053bdecbe4e8be22bf2ee037f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Modify/ProceduralModifier/VOXImport/Importer/VOXObject.cs
+  uploadId: 708357

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78b6baf4ae6d4e242b23cbee93f6b4ea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/ProceduralModifier/SuperMeshConverter.prefab
+  uploadId: 708357

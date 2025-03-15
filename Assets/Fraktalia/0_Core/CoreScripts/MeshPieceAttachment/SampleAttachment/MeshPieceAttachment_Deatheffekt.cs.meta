@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 25a1a551ec6630f41a666b34d16f6224
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/CoreScripts/MeshPieceAttachment/SampleAttachment/MeshPieceAttachment_Deatheffekt.cs
+  uploadId: 708357

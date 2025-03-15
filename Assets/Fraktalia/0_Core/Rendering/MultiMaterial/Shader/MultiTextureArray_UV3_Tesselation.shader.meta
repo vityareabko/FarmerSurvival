@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: def41cab5e437b1458b3fef10951e95e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Shader/MultiTextureArray_UV3_Tesselation.shader
+  uploadId: 708357

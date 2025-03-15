@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de5af9ddc0a7307458710b149af78ec4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/Materials/Tile/Tile.mat
+  uploadId: 708357

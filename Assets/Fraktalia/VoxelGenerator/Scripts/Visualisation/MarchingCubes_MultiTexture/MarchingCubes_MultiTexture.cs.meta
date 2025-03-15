@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fbd29b12423eb2e408ed2b5014fbbf37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Visualisation/MarchingCubes_MultiTexture/MarchingCubes_MultiTexture.cs
+  uploadId: 708357

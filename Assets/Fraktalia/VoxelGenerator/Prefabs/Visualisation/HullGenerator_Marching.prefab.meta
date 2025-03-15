@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9583766e10c9f7c45b7413c7a7775a43
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/Visualisation/HullGenerator_Marching.prefab
+  uploadId: 708357

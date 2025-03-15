@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17c29fd25f0ecf54b82caa125dd66cb9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/WorldGeneration/WorldGenerator_TriplanarTestSettings.lighting
+  uploadId: 708357

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 981017756c06fca4882bfb0a667ac518
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/Deprecated/VoxelTreesSettings.lighting
+  uploadId: 708357

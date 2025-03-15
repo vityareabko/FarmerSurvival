@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24e7f42cd17648941992b12f12a79441
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/VoxelGenerator_NoVisuals.prefab
+  uploadId: 708357

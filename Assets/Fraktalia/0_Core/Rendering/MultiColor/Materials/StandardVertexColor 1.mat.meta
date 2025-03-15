@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5833eaf0266a6e847ad740b47133c337
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiColor/Materials/StandardVertexColor
+    1.mat
+  uploadId: 708357

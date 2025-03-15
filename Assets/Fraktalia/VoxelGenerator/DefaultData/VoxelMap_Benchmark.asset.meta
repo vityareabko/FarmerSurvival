@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1f2fc8d1d462e949b5d1edb1d29ba9f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/DefaultData/VoxelMap_Benchmark.asset
+  uploadId: 708357

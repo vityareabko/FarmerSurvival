@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94ceb2883fecf994cb7210278e399479
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/VoxelModifier V2 Use
+    cases/FillShape.unity
+  uploadId: 708357

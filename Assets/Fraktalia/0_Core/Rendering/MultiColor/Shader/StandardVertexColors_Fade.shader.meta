@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34cbfa8a1969b2b43bae750ab7726350
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiColor/Shader/StandardVertexColors_Fade.shader
+  uploadId: 708357

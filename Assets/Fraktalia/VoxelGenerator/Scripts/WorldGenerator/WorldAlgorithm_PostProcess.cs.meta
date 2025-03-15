@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc17b1cd0792ac148b70c7ae2e49a03b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/WorldGenerator/WorldAlgorithm_PostProcess.cs
+  uploadId: 708357

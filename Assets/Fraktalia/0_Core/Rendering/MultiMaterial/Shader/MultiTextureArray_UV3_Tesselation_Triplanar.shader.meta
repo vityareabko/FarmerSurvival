@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea054418bb16eea4086cf47d1ff70aa5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Shader/MultiTextureArray_UV3_Tesselation_Triplanar.shader
+  uploadId: 708357

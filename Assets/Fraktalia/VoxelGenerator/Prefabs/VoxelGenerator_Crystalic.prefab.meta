@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a760ad21658b86244bfef776f1524562
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/VoxelGenerator_Crystalic.prefab
+  uploadId: 708357

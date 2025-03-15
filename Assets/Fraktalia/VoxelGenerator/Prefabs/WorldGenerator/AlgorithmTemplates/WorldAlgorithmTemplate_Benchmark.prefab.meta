@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d11fa336e3cc0ef469f8fb507b40805e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/WorldGenerator/AlgorithmTemplates/WorldAlgorithmTemplate_Benchmark.prefab
+  uploadId: 708357

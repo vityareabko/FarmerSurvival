@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8f4f9802a79d4640b54be606f2080b5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/VoxelGenerator_GPU.prefab
+  uploadId: 708357

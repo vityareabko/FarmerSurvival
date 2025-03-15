@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b898fda6169a1ab4284c7739da53266f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiColor/Shader/StandardVertexColors_Opaque.shader
+  uploadId: 708357

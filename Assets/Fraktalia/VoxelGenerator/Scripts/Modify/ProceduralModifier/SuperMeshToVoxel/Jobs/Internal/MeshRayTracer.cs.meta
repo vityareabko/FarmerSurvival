@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4b8c78067fd18af46a6dd169b6678640
+timeCreated: 1492405512
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Modify/ProceduralModifier/SuperMeshToVoxel/Jobs/Internal/MeshRayTracer.cs
+  uploadId: 708357

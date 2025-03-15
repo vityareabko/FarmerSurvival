@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 168c299dbb612ac4cb50a2ac7e755667
+timeCreated: 1467469800
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/ProceduralModifier/ProceduralVoxelModifier.unity
+  uploadId: 708357

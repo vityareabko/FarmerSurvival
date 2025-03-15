@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 330cf20f0249cd64d9db9a6bd632302f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Visualisation/Consolidated/SurfaceModifier/SurfaceModifier_VertexColor.cs
+  uploadId: 708357

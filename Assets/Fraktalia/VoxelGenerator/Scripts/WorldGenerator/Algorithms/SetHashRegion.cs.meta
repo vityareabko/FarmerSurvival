@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4281294f45135b04f963cdcce27f63aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/WorldGenerator/Algorithms/SetHashRegion.cs
+  uploadId: 708357

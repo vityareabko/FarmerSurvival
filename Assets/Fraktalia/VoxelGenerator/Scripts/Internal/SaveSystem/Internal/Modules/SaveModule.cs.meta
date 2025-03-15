@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 73f12ce4f2e0d404f879bd7f8550f5bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Internal/SaveSystem/Internal/Modules/SaveModule.cs
+  uploadId: 708357

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4abf05e213eb488459bf36ada48ad572
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiColor/Materials/MultiColorCrystal.mat
+  uploadId: 708357

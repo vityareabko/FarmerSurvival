@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20b095a4b5c4baa4e937674a975347b1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/ProceduralModifier/MeshToCubes.unity
+  uploadId: 708357

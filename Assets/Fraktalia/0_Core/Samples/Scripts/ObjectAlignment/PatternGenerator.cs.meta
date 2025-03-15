@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b92a392d6c1f8df42afbfc0d24e28b7c
+timeCreated: 1486465947
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Samples/Scripts/ObjectAlignment/PatternGenerator.cs
+  uploadId: 708357

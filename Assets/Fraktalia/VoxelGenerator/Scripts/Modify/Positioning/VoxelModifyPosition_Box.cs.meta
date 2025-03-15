@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0ebd0ecb7a4270d4cbbd1fed26066393
+timeCreated: 1494437998
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Modify/Positioning/VoxelModifyPosition_Box.cs
+  uploadId: 708357

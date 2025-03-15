@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee27e1e53ede7494399b973cee3601e2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/V2/Multiblock.unity
+  uploadId: 708357

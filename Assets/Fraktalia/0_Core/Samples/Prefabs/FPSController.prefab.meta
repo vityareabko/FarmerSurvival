@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16b36e159c1a36348a3a7d7287f80188
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Samples/Prefabs/FPSController.prefab
+  uploadId: 708357

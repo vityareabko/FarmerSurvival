@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1448153b3797e904d92984925f127ea7
+timeCreated: 1477821064
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/V2/Terrain.unity
+  uploadId: 708357

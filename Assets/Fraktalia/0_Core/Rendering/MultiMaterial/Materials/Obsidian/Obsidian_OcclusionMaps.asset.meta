@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fa5126f5d6f3914ab4ff680e9cd0d75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 18700000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Materials/Obsidian/Obsidian_OcclusionMaps.asset
+  uploadId: 708357

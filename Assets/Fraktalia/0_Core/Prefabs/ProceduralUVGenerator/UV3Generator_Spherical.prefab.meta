@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a42f4c221945eb4099922a888609b4e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Prefabs/ProceduralUVGenerator/UV3Generator_Spherical.prefab
+  uploadId: 708357

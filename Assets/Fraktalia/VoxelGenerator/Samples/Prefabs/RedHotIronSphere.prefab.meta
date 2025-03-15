@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: efcfad25e75b3f24faae7cf044718d09
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Prefabs/RedHotIronSphere.prefab
+  uploadId: 708357

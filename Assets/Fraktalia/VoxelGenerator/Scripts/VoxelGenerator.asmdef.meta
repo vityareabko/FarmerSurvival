@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9572fec7d2c257e4480afe107bbca60f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/VoxelGenerator.asmdef
+  uploadId: 708357

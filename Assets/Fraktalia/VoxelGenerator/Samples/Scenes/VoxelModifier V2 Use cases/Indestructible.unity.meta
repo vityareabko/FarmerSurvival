@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0ccce5be24766a4ba764c51b0ff4156
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/VoxelModifier V2 Use
+    cases/Indestructible.unity
+  uploadId: 708357

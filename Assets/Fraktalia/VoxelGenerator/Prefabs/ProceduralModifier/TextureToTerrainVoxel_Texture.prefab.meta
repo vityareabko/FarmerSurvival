@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b8fc518f5e4a14498d833d6564c1a8b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/ProceduralModifier/TextureToTerrainVoxel_Texture.prefab
+  uploadId: 708357

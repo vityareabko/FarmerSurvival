@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fc91696c8247d34aa473f0cc2468226
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/ProceduralModifier/TextureToVoxel.prefab
+  uploadId: 708357

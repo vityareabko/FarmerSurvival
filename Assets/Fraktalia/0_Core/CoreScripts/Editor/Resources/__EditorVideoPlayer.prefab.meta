@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dca0a33cea898ba449be6764738e6d7f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/CoreScripts/Editor/Resources/__EditorVideoPlayer.prefab
+  uploadId: 708357

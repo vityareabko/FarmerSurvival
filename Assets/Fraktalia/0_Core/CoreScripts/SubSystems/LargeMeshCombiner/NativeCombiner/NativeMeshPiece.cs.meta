@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ab1e2f4b7a332aa4181e84a8d696cbe3
+timeCreated: 1476629202
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/CoreScripts/SubSystems/LargeMeshCombiner/NativeCombiner/NativeMeshPiece.cs
+  uploadId: 708357

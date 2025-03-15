@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62e6de18fdf004a40aaf8559a3d9dab2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/Foliage/Textures/selfmadefoliage.txt
+  uploadId: 708357

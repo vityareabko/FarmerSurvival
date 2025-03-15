@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f10cdf6b7ab346fabc350e1ea6298181
+timeCreated: 1475946175
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Samples/Scripts/SceneMovement/NoClipFirstPersonController.cs
+  uploadId: 708357

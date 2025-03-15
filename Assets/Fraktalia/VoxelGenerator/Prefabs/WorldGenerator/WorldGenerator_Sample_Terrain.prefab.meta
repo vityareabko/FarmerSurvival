@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0dcd3c4772dcd104b90a1179191a36f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/WorldGenerator/WorldGenerator_Sample_Terrain.prefab
+  uploadId: 708357

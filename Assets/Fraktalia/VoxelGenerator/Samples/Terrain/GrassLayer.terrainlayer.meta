@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c32fe1510d31cf4385771ca26c13491
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Terrain/GrassLayer.terrainlayer
+  uploadId: 708357

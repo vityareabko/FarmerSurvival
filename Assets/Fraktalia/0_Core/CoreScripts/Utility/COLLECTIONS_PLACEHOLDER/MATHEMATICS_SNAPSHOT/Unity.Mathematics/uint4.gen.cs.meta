@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f1decacd280a3e94d9a8e871ca8c53e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/CoreScripts/Utility/COLLECTIONS_PLACEHOLDER/MATHEMATICS_SNAPSHOT/Unity.Mathematics/uint4.gen.cs
+  uploadId: 708357

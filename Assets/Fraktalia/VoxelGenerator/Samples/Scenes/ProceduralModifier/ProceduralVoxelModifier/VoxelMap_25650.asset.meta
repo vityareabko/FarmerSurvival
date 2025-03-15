@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac018b4b96ae48f45875661422f3bfbe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/ProceduralModifier/ProceduralVoxelModifier/VoxelMap_25650.asset
+  uploadId: 708357

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88eef0db96bd0fb478e8fbd47179499e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/WorldGenerator/WorldGenerator_Sample_Planet.prefab
+  uploadId: 708357

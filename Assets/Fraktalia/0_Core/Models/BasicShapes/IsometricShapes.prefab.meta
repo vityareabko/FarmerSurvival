@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fca1cb28d89ec244baafdbd3f19324c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Models/BasicShapes/IsometricShapes.prefab
+  uploadId: 708357

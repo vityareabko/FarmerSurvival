@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d78a52e00bd6eca45aac204c3719f7d2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Prefabs/Details/GoldOre.prefab
+  uploadId: 708357

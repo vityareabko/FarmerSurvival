@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6314d78bebf710e4290bbf5cfc34454b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/VoxelModifier V2 Use
+    cases/PositioningAlgorithm.unity
+  uploadId: 708357

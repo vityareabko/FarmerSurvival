@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e05b45fb1b78c441829c7bd9c541ce3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Samples/Prefabs/RotatingCamera.prefab
+  uploadId: 708357

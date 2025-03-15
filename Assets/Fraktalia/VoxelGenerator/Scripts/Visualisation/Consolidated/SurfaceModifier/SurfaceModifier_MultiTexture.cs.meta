@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1cbc26b4a77df4c40bddf7a69fc3bf3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Visualisation/Consolidated/SurfaceModifier/SurfaceModifier_MultiTexture.cs
+  uploadId: 708357

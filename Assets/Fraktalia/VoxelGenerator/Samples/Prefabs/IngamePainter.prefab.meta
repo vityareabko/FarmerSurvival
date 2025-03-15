@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aabd997404fb2a64892e0ab5c0b17468
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Prefabs/IngamePainter.prefab
+  uploadId: 708357

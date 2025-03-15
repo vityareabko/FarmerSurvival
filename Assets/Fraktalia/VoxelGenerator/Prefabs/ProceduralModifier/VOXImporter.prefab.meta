@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d043bd5aca47f9941a0c864cddb0d53d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/ProceduralModifier/VOXImporter.prefab
+  uploadId: 708357

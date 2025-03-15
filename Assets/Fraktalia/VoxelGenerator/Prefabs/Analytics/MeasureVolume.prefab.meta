@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e0e54e15ad78c047942a98c09c96d67
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/Analytics/MeasureVolume.prefab
+  uploadId: 708357

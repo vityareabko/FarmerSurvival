@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ab2fd61e74573f049a52cd7b44c9018a
+timeCreated: 1506684146
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Shader/Editor/TextureArray_StandardGUI.cs
+  uploadId: 708357

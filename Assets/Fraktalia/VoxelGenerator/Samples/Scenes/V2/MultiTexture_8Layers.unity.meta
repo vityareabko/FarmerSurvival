@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56e3ac49a01ba574ea60d998dc0fb99a
+timeCreated: 1477821064
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Scenes/V2/MultiTexture_8Layers.unity
+  uploadId: 708357

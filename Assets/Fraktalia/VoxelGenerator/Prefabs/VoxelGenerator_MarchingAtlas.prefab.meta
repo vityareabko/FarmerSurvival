@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c0df2ba27d653840b1347c8ae56fbc9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/VoxelGenerator_MarchingAtlas.prefab
+  uploadId: 708357

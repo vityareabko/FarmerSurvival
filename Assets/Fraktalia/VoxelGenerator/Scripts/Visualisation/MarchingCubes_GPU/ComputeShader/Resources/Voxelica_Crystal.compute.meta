@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1353cb8d6aaa65642bc99ba60001ad43
+ComputeShaderImporter:
+  externalObjects: {}
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Visualisation/MarchingCubes_GPU/ComputeShader/Resources/Voxelica_Crystal.compute
+  uploadId: 708357

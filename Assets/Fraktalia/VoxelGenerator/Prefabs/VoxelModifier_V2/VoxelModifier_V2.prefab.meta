@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e55dc91b84ea8448b71abe5886ba990
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/VoxelModifier_V2/VoxelModifier_V2.prefab
+  uploadId: 708357

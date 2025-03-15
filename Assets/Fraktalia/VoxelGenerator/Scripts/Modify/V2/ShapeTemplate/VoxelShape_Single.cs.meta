@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 489ee7f4427c92c4a9e1655498e9d53b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Modify/V2/ShapeTemplate/VoxelShape_Single.cs
+  uploadId: 708357

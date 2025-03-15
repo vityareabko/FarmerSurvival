@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fee0e61c4d6662d4a97923e5d6bf9ac9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Shader/MultiTextureArray_UVBlend_Triplanar.shader
+  uploadId: 708357

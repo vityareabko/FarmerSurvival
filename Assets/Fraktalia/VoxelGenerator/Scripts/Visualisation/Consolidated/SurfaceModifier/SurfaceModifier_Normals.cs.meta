@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b643f393b7c6736499679e13d93ca376
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Visualisation/Consolidated/SurfaceModifier/SurfaceModifier_Normals.cs
+  uploadId: 708357

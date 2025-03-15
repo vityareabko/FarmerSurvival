@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71b1f0cfe1bbb514181115b1b485fad9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/ProceduralModifier/ColliderToVoxel.prefab
+  uploadId: 708357

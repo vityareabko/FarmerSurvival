@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1388b1336c067de428799d345861216c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/Visualisation/Detail/Detail_SurfaceGround.prefab
+  uploadId: 708357

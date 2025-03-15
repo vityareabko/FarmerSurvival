@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e893772c1ff4f074ebd2bce75d5cfe27
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Shader/TextureAtlas_UV3_Triplanar.shader
+  uploadId: 708357

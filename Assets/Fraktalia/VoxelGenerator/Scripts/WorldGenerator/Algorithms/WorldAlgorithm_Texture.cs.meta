@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea3fa4c2d36e0fd4eb92287b3e8e148d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/WorldGenerator/Algorithms/WorldAlgorithm_Texture.cs
+  uploadId: 708357

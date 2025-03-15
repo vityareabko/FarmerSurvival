@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a2d551f3af0646bb8c3119114a663013
+timeCreated: 1475946298
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Samples/Scripts/SceneMovement/NoClipMouseLook.cs
+  uploadId: 708357

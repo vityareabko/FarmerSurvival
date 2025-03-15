@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2edea84afcfe78d4db228c444b3c4944
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/SkyBox/Shader/BurningSky.shader
+  uploadId: 708357

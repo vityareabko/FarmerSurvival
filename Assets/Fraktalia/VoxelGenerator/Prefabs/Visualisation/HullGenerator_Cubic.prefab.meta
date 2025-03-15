@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59ea76686a736e646a9c3252f1554809
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/Visualisation/HullGenerator_Cubic.prefab
+  uploadId: 708357

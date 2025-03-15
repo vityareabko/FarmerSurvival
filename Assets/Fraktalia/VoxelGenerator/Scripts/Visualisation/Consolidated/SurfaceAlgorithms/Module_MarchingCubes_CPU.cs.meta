@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 43bd073a59ee2124ca3ad3bf4e6e2779
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Visualisation/Consolidated/SurfaceAlgorithms/Module_MarchingCubes_CPU.cs
+  uploadId: 708357

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b449cdb0fe3837b4b8d46a0ca0497485
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/WorldGenerator/WorldGenerator_Sample_Overworld.prefab
+  uploadId: 708357

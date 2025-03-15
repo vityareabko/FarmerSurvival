@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 338b9beefbe1188428b1a4865123a200
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Visualisation/Detail/Jobs/NativeDetail_NodesChanged.cs
+  uploadId: 708357

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 260d55bc5b7b9064d8033ee5cd167b4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Scripts/Modify/ProceduralModifier/SuperMeshToVoxel/Jobs/SuperMeshToVoxel_Calculation.cs
+  uploadId: 708357

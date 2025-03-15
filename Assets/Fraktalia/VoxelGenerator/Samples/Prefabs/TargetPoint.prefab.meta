@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 335dbe6fc8e095d4c8debd9d2688c05a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Samples/Prefabs/TargetPoint.prefab
+  uploadId: 708357

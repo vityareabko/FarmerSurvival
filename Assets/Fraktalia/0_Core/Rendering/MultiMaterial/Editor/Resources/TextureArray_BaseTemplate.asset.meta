@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3b4487432de8a342877eb87e41298e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/MultiMaterial/Editor/Resources/TextureArray_BaseTemplate.asset
+  uploadId: 708357

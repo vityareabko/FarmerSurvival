@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddce8186e18a0794399c7687ca9af512
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/VoxelGenerator/Prefabs/VoxelGenerator_Marching.prefab
+  uploadId: 708357

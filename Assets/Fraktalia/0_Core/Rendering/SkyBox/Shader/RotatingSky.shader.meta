@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3de43fe4d98ff4f4f869376a39754de0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Rendering/SkyBox/Shader/RotatingSky.shader
+  uploadId: 708357

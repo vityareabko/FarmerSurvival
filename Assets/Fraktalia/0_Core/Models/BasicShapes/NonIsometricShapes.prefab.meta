@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7fdd4c6b667d50b4993b7241e35d858c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162883
+  packageName: Voxelica - Voxel Engine
+  packageVersion: 1.9.9.1
+  assetPath: Assets/Fraktalia/0_Core/Models/BasicShapes/NonIsometricShapes.prefab
+  uploadId: 708357
