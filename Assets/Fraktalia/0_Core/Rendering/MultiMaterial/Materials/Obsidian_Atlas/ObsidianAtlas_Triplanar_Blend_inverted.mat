@@ -2,20 +2,28 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ObsidianAtlas_Triplanar_Blend_inverted
   m_Shader: {fileID: 4800000, guid: d55150c29dbe2594e9fb0aa292df6ea1, type: 3}
-  m_ShaderKeywords: SEAMLESS_TESSELATION USEBASEMATERIAL
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - SEAMLESS_TESSELATION
+  - TESSELLATION
+  - USEBASEMATERIAL
+  - USE_COLOR_FOR_SEAMLESS_TESSELLATION
+  m_InvalidKeywords: []
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -150,7 +158,7 @@ Material:
     - _BaseGlossiness: 1
     - _BaseMetallic: 1
     - _BaseOcclusionStrength: 0
-    - _BaseParallax: 0.005
+    - _BaseParallax: 0.0108
     - _BaseSlice: 8.04
     - _BaseSupression: 0.2
     - _BaseUVMultiplier: 1
@@ -176,14 +184,14 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Tess: 10.3
+    - _Tess: 1
     - _Tess_MinEdgeDistance: 0.202
     - _Tess_W: 1
     - _Tess_X: 1
     - _Tess_Y: 1
     - _Tess_Z: 1
     - _TesselationOffset: 0
-    - _TesselationPower: 3
+    - _TesselationPower: 0.007
     - _TextureAtlas_Height: 2
     - _TextureAtlas_Width: 2
     - _UV2Power: 0.01
@@ -213,3 +221,4 @@ Material:
     - _UV4XPower: {r: 0, g: 0, b: 2, a: 0}
     - _UV4YPower: {r: 0, g: 0, b: 3, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1

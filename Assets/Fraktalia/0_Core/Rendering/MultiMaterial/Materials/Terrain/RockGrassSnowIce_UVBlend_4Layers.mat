@@ -408,3 +408,4 @@ Material:
     - _UV4XPower: {r: 0, g: 0, b: 2, a: 1}
     - _UV4YPower: {r: 0, g: 0, b: 3, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1

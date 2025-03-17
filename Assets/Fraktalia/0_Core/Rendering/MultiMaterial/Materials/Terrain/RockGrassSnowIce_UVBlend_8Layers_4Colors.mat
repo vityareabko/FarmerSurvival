@@ -580,7 +580,7 @@ Material:
     - maxDist: 106.2
     - minDist: 33.1
     m_Colors:
-    - _BaseColor: {r: 0.26379493, g: 0.26379493, b: 0.26379493, a: 1}
+    - _BaseColor: {r: 0.26379392, g: 0.26379392, b: 0.26379392, a: 1}
     - _BaseEmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color_Layer_10: {r: 0, g: 1, b: 0, a: 1}
@@ -614,3 +614,4 @@ Material:
     - _UV4XPower: {r: 0, g: 0, b: 2, a: 1}
     - _UV4YPower: {r: 0, g: 0, b: 3, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1

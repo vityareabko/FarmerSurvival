@@ -78,6 +78,9 @@ namespace Fraktalia.VoxelGen.Modify
 			}
 		}
 
+		[SerializeField] private bool executeOnce = false;
+		private bool hasExecuted = false;
+
 		private void Update()
 		{
 			if (!Modifier || !GameCamera) return;
@@ -85,7 +88,6 @@ namespace Fraktalia.VoxelGen.Modify
 
 			if (Input.GetKey(ActivationButton) || ActivationButton == KeyCode.None)
 			{
-				
 				Ray ray = GameCamera.ScreenPointToRay(Input.mousePosition);
 				if (RayCastToVoxel(ray, MaximumDistance, TargetLayer))
 				{
@@ -95,18 +97,23 @@ namespace Fraktalia.VoxelGen.Modify
 						ImpactIndicator.gameObject.SetActive(true);
 						ImpactIndicator.localScale = Modifier.GetGameIndicatorSize();
 					}
-					if(Input.GetMouseButton(0))
+                
+					if (Input.GetMouseButtonDown(0))
 					{
-						PaintPosition += PaintNormal * NormalOffset_Left;
-						ApplyModifier(ModeLeftClick);
+						if (!executeOnce || !hasExecuted)
+						{
+							PaintPosition += PaintNormal * NormalOffset_Left;
+							ApplyModifier(ModeLeftClick);
+							hasExecuted = true;
+						}
 					}
-
+                
 					if (Input.GetMouseButton(1))
 					{
 						PaintPosition += PaintNormal * NormalOffset_Right;
 						ApplyModifier(ModeRightClick);
 					}
-
+                
 					if (Input.GetMouseButton(2))
 					{
 						PaintPosition += PaintNormal * NormalOffset_Middle;
@@ -121,8 +128,8 @@ namespace Fraktalia.VoxelGen.Modify
 			else
 			{
 				if (ImpactIndicator) ImpactIndicator.gameObject.SetActive(false);
+				hasExecuted = false;
 			}
-
 		}
 
 
