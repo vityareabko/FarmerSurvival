@@ -12,8 +12,7 @@
 
 /Game/Ignore/*
 
-/Fraktalia/VoxelGenerator/DefaultData/*
-
+/Game/ExternalAssets/Fraktalia/VoxelGenerator/DefaultData/*
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
